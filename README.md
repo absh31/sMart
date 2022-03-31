@@ -1,6 +1,4 @@
 # sMart
-sMart. Java Project which can Manage your stock and billing system for store.
-# sMart
 ## Java Project which can Manage your stock and billing system for store.
 ### This is an academic project made with Java Langauge using NetBeans IDE.
 ### Using Java DB and JDBC Derby.
